@@ -1,15 +1,14 @@
 import React from 'react';
 import './App.css';
 
-import Belajar from "./components/Belajar";
-import Registration from "./components/Registration";
+import Belajarlagi from "./components/Belajarlagi";
+
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Belajar />
-        <Registration />
+        <Belajarlagi/>
       </header>
     </div>
   );
